@@ -1,0 +1,9 @@
+###
+GET http://localhost:8081/offers?tel=121212
+
+
+###
+GET http://localhost:8081/use?tel=1212011&idOffre=3
+
+###
+GET http://localhost:8081/addUser?tel=121212&segment=20

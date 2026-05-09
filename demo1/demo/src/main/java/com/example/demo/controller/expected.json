@@ -1,0 +1,18 @@
+{
+  "code": "0",
+  "description": "Success",
+  "offerResponseList": [
+    {
+      "offerId": 2,
+      "nom": "3X CREDIT"
+    },
+    {
+      "offerId": 1,
+      "nom": "2X CREDIT"
+    },
+    {
+      "offerId": 3,
+      "nom": "FREE YEAR"
+    }
+  ]
+}
